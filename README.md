@@ -1,5 +1,4 @@
-## Simple-Panel
-## El mejor dashboard para Aoi.js
+## Simple-Panel (El mejor dashboard para Aoi.js)
 
 # ¿Como Usarme?
 ```js
