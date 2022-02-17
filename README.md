@@ -38,6 +38,6 @@ dash.start()
 Usuario: `user`
 Contraseña: `pass`
 ### Creador del proyecto 
-ItzEmmaa#8675 :3 Mi servidor de desarollo: https://discord.gg/2WHg3Qs6AK
+ItzEmmaa#8675 :3 Mi servidor de desarollo: [Click Aqui](https://discord.gg/2WHg3Qs6AK)
 
 
